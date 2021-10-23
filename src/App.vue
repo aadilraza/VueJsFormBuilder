@@ -1,9 +1,7 @@
 <template>
   <div class="demo-wrapper">
     <div class="demo-header">
-      <h1>Form Builder
-          <small>Made with Vue.JS</small>
-      </h1>
+     <img src="http://www.letscodify.com/img/lg.png" />
     </div>
     <div class="app-wrapper">
       <div id="app">
